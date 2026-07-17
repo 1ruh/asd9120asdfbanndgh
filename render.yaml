@@ -7,3 +7,5 @@ services:
     envVars:
       - key: GLINT_ADMIN_KEY
         value: CHANGE_THIS_TO_YOUR_SECRET_KEY
+      - key: PYTHON_VERSION
+        value: 3.12.7
